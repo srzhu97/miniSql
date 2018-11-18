@@ -1,0 +1,1132 @@
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+3
+3
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+Morn                               
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+Morn                               
+3
+Name
+35
+4
+Tbessa                             
+1
+Name
+35
+4
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0
+City
+select string value:
+ID
+District
+select string type:
+-1
+20
+select val offset:
+0
+42
+select length:
+4
+20
+select record length
+66
+select condition
+Herat                              
+4
+Name
+35
+4
+City
+select string value:
+select string type:
+-1
+35
+3
+20
+-1
+select val offset:
+0
+4
+39
+42
+62
+select length:
+4
+35
+3
+20
+4
+select record length
+66
+select condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62
+CountryLanguage
+select string value:
+select string type:
+3
+30
+1
+-2
+select val offset:
+0
+3
+33
+34
+select length:
+3
+30
+1
+4
+select record length
+38
+select condition
+70.0
+3
+Percentage
+-2
+34
+City
+select string value:
+Name
+Population
+select string type:
+35
+-1
+select val offset:
+4
+62
+select length:
+35
+4
+select record length
+66
+select condition
+3
+4
+ID
+-1
+0

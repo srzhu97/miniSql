@@ -1,0 +1,44 @@
+City
+delete string value:
+delete string type:
+delete val offset:
+delete length:
+delete record length
+66
+delete condition
+3
+4
+ID
+-1
+0
+City
+delete string value:
+delete string type:
+delete val offset:
+delete length:
+delete record length
+66
+delete condition
+3
+4
+ID
+-1
+0
+City
+delete string value:
+delete string type:
+delete val offset:
+delete length:
+delete record length
+66
+delete condition
+50
+2
+ID
+-1
+0
+200000
+2
+Population
+-1
+62

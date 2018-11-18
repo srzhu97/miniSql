@@ -1,0 +1,8 @@
+TableName	t
+HasPrimary: TRUE
+PrimaryKey	id
+AttributeList:
+	id	int
+	score	int
+ColumnNumber: 2
+RecordLength: 8

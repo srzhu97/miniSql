@@ -1,0 +1,7 @@
+IndexName	t_primary_index
+Where:		On Table t (id)
+Attribute Type:	int
+IsPrimary: 	TRUE
+AttrNameOffset: 0
+Root_Number: 0
+Node_Number: 1
